@@ -11,7 +11,7 @@
 ---
 
 ## 🧠 Overview
-This Power BI dashboard explores the **Netflix Titles Dataset** as of 2024.  
+This Power BI dashboard explores the **Netflix Titles Dataset** as of 2008 - 2021.  
 It reveals trends in content format, genre spread, regional distribution, and release activity through interactive visuals and filters.
 
 ---
