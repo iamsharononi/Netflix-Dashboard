@@ -1,6 +1,6 @@
 # 📺 Netflix Titles Dashboard (2008 - 2021)
 
-![Dashboard](https://raw.githubusercontent.com/iamsharononi/Netflix-Dashboard/main/netflix_dashboard_preview.jpg) <!-- Replace with your actual image URL -->
+![Dashboard](https://raw.githubusercontent.com/iamsharononi/Netflix-Dashboard/refs/heads/main/Netflix%20Titles%20Dashboard.jpeg)<!-- Replace with your actual image URL -->
 
 ---
 
@@ -79,7 +79,7 @@ This dashboard includes:
 
 ## 📷 Preview
 
-![Dashboard](https://raw.githubusercontent.com/iamsharononi/Netflix-Dashboard/main/netflix_dashboard_preview.jpg) <!-- Replace with actual image -->
+![Dashboard](https://raw.githubusercontent.com/iamsharononi/Netflix-Dashboard/refs/heads/main/Netflix%20Titles%20Dashboard.jpeg) <!-- Replace with actual image -->
 
 ---
 
